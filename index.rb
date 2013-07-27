@@ -1,2 +1,5 @@
-class hello
+class Hello
+  def hello
+    puts "Hello, World!"
+  end
 end
