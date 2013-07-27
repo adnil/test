@@ -1,2 +1,6 @@
-class hello
+class Hello
+  def hello
+
+
+  end
 end
